@@ -25,19 +25,23 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="rambo"/>
+            android:text="rambo"
+            android:id="@+id/peliculas1"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="ROCKY"/>
+            android:text="ROCKY"
+            android:id="@+id/peliculas2"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="GHOST"/>
+            android:text="GHOST"
+            android:id="@+id/peliculas3"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="ET"/>
+            android:text="ET"
+            android:id="@+id/peliculas4"/>
 
     </LinearLayout>
 
